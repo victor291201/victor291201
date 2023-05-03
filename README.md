@@ -1,5 +1,6 @@
 ### `Hi stranger👋, i'm victor, welcome to my profile 😄.`
 
+# 🦾 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=victor291201&theme=tokyonight">
 
 
