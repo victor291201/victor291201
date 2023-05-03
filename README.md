@@ -1,4 +1,4 @@
-## Hi stranger👋, i'm victor, welcome to my profile 😄.
+## console.log("hi, i'm victor a passionate web application developer 🤩")
 ### `🧩About Me`
 
 ### `🦾Stats`
