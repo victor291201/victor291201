@@ -1,4 +1,4 @@
-## Hi stranger👋, i'm victor, welcome to my profile 😄.`
+## Hi stranger👋, i'm victor, welcome to my profile 😄.
 ### `🧩About Me`
 
 ### `🦾Stats`
