@@ -1,10 +1,10 @@
 ## console.log("hi, i'm victor a passionate web application developer 🤩")
 
 ### `🧩About Me`
-I am a systems engineering student at the Magdalena University, passionate about technology, focused on web and mobile programming.
+I am Victor Cervantes, a systems engineering student at the Universidad del Magdalena, passionate about technology and programming from a very young age, focused on web and mobile development, born in Barranquilla, Colombia, I love learning new languages, traveling and dancing, welcome 👋.
 ### `🦾Stats`
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor291201&theme=highcontrast)
-### `🔧 Tools`
+### `🔧Tools`
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
