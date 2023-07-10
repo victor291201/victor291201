@@ -19,7 +19,7 @@ I am Victor Cervantes, a systems engineering student at the Universidad del Magd
 ### `👨‍💻Metrics`
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor291201&theme=highcontrast)
 ### `🏆 Trophy`
-![](https://github-profile-trophy.vercel.app/?username=victor291201&theme=dracula) 
+![](https://github-profile-trophy.vercel.app/?username=victor291201&theme=tokyonight) 
 ### `⚓Contact Me`
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victor-cervantes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cervantessvictor_/)
