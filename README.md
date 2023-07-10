@@ -25,4 +25,5 @@ I am Victor Cervantes, a systems engineering student at the Universidad del Magd
 
 ### `❗Aditional Info`
 ![](https://github-profile-trophy.vercel.app/?username=victor291201&theme=highcontrast) 
+---
 ![](https://komarev.com/ghpvc/?username=victor291201&label=Views&color=blue&style=plastic&style=for-the-badge)
