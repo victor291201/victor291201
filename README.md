@@ -17,7 +17,7 @@ I am Victor Cervantes, a systems engineering student at the Universidad del Magd
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ### `👨‍💻Metrics`
-![](https://github-readme-activity-graph.cyclic.app/graph?username=victor291201&theme=high-contrast)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=victor291201)
 ### `⚓Contact Me`
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victor-cervantes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cervantessvictor_/)
