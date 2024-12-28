@@ -1,4 +1,4 @@
-## console.log("hi, I'm victor a passionate web application developer 🤩")
+## console.log("hi, I'm victor a passionate mobile developer 🤩")
 
 ### `🧩About Me`
 I am Victor Cervantes, a systems engineering student at the Universidad del Magdalena, passionate about technology and programming from a very young age, focused on web and mobile development, born in Barranquilla, Colombia, I love learning new languages, traveling and dancing, welcome 👋.
